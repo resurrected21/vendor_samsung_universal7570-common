@@ -1,9 +1,0 @@
-/system/app/AutoBackup_release/AutoBackup_release.apk
-/system/app/IPsecService/IPsecService.apk
-/system/app/MyGalaxyWidget/MyGalaxyWidget.apk
-/system/app/PreinstallProvider/PreinstallProvider.apk
-/system/app/SamsungMax/SamsungMax.apk
-/system/priv-app/appcloud_oobe/appcloud_oobe.apk
-/system/priv-app/BikeMode_N/BikeMode_N.apk
-/system/priv-app/PowerPlanning/PowerPlanning.apk
-/system/priv-app/SProtect/SProtect.apk

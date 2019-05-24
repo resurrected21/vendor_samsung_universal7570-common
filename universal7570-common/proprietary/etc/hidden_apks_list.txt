@@ -1,4 +1,0 @@
-/hidden/app/Amazon_Shopping_Samsung.apk
-/hidden/app/dailyhunt_samsung.apk
-/hidden/app/MyGalaxy_Stub.apk
-/hidden/app/SamsungMall.apk
